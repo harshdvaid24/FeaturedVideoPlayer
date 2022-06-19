@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "790478465756",
+    "project_id": "nupurkathak-d0b54",
+    "storage_bucket": "nupurkathak-d0b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790478465756:android:9c9269361f468e85bd6219",
+        "android_client_info": {
+          "package_name": "com.nupurkathak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790478465756-fd1d6kive20bhvi5nl1f10jdarv3vtbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nupurkathak",
+            "certificate_hash": "7f98901e1c3c21e70c55afdda0d674106ec019e1"
+          }
+        },
+        {
+          "client_id": "790478465756-rcm669q1jhm4res8027soh8bfc06bmgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nupurkathak",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "790478465756-cdmm4qedpol9umarivujqkkgknuke8ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeRnMuZ39xCjS7nr5yczvPsSO5X8C9EPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790478465756-cdmm4qedpol9umarivujqkkgknuke8ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790478465756-o9l71qsvi30t6ngd0bspdhhpqg0ul9g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nupurkathak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
