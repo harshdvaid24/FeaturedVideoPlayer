@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "FeaturedVideoPlayer is react native custom video player with many options",
   "main": "index.js",
+
+  "publishConfig": { "@harshdviad24:registry": "https://npm.pkg.github.com" },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
