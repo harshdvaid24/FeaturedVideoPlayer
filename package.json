@@ -1,6 +1,6 @@
 {
-  "name": "boilerplate",
-  "version": "3.2.0",
+  "name": "featured-video-player",
+  "version": "1.0.0",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -65,5 +65,21 @@
     "transformIgnorePatterns": [
       "/node_modules/(?!@react-native|react-native)"
     ]
-  }
+  },
+  "description": "featured video player",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshdvaid24/FeaturedVideoPlayer.git"
+  },
+  "keywords": [
+    "video",
+    "player"
+  ],
+  "author": "Harsh Vaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshdvaid24/FeaturedVideoPlayer/issues"
+  },
+  "homepage": "https://github.com/harshdvaid24/FeaturedVideoPlayer#readme"
 }
